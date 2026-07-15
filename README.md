@@ -105,7 +105,13 @@ No database installation is required — the app works out of the box.
 
 ## 📸 Screenshots
 
-> _Add your own screenshots here (Dashboard, Room Management, Reservations, etc.)_
+## Login page
+
+<img width="721" height="458" alt="image" src="https://github.com/user-attachments/assets/56a16035-2bc6-43ae-8dfd-953f806add1e" />
+
+## Dashboard
+
+<img width="960" height="509" alt="image" src="https://github.com/user-attachments/assets/36cd7bb0-5828-47cc-8484-27ca958db948" />
 
 ---
 
