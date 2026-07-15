@@ -1,0 +1,5 @@
+P001|B001|Ali Raza|10000.0|Cash|09-07-2026|Paid
+P002|B002|Sana Khan|16000.0|Credit Card|09-07-2026|Paid
+P003|B003|Usman Ahmed|16000.0|Easypaisa|12-07-2026|Paid
+P004|B004|Hamza Ali|15000.0|JazzCash|10-07-2026|Paid
+P005|B005|Ayesha Noor|30000.0|Bank Transfer|11-07-2026|Paid

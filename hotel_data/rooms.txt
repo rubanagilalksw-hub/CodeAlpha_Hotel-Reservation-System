@@ -1,0 +1,6 @@
+101|Standard|5000.0|2|Wi-Fi, AC, TV|Available
+102|Deluxe|8000.0|3|Wi-Fi, AC, TV, Mini Bar|Booked
+103|Deluxe|8000.0|3|Wi-Fi, AC, TV, Mini Bar|Available
+201|Suite|15000.0|4|Wi-Fi, AC, TV, Mini Bar, Balcony|Booked
+202|Suite|15000.0|4|Wi-Fi, AC, TV, Mini Bar, Balcony|Available
+203|Standard|5000.0|2|Wi-Fi, AC, TV|Available

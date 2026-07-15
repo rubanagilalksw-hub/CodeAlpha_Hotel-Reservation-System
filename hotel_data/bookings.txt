@@ -1,0 +1,5 @@
+B001|Ali Raza|0300-1234567|101|Standard|10-07-2026|12-07-2026|2|10000.0|Cash|Paid|Cancelled
+B002|Sana Khan|0311-2345678|102|Deluxe|10-07-2026|12-07-2026|2|16000.0|Credit Card|Paid|Confirmed
+B003|Usman Ahmed|0321-3456789|103|Deluxe|11-07-2026|13-07-2026|2|16000.0|Easypaisa|Paid|Cancelled
+B004|Hamza Ali|0331-4567890|201|Suite|11-07-2026|12-07-2026|1|15000.0|Cash|Paid|Confirmed
+B005|Ayesha Noor|0346-5678901|202|Suite|12-07-2026|14-07-2026|2|30000.0|Bank Transfer|Paid|Confirmed
